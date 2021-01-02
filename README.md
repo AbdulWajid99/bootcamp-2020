@@ -2,7 +2,7 @@
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, Serverless, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
 
-We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
+We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.(..)
 
 [Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
 
